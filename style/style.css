@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+
+}
+
+#text-container{
+    /*background-color: red; */
+}
+.div__receta{
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px   ;
+    background-color: red;
+    margin: 20px 100px;
+    display: flex;
+    flex-direction: column;
+}
+#label-style{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+}
+
+input{
+    background-color: aqua;
+}
+select{
+    background-color: aqua;
+}
